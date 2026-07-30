@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+
+# Downloads / audio files (large binary files - not for version control)
+downloades/
+downloads/
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.webm
+*.ogg
+
+# Vector database
+vector_db/
+
+# Environment variables
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
